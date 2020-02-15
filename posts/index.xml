@@ -6,7 +6,7 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2020 17:04:52 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 20:31:49 +0800</lastBuildDate>
     
 	<atom:link href="https://necrozizi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>My First Post</title>
       <link>https://necrozizi.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 15 Feb 2020 17:04:52 +0800</pubDate>
+      <pubDate>Sat, 15 Feb 2020 20:31:49 +0800</pubDate>
       
       <guid>https://necrozizi.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <description>Heading 1 Heading 2  list list  </description>
     </item>
     
   </channel>

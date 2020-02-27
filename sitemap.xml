@@ -1,6 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://necrozizi.github.io/posts/20200225/</loc>
+    <lastmod>2020-02-25T20:31:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://necrozizi.github.io/</loc>
+    <lastmod>2020-02-25T20:31:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://necrozizi.github.io/posts/</loc>
+    <lastmod>2020-02-25T20:31:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://necrozizi.github.io/tags/</loc>
+    <lastmod>2020-02-25T20:31:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://necrozizi.github.io/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA/</loc>
+    <lastmod>2020-02-25T20:31:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://necrozizi.github.io/posts/20200224/</loc>
+    <lastmod>2020-02-24T20:31:49+08:00</lastmod>
+  </url>
   
   <url>
     <loc>https://necrozizi.github.io/posts/my-first-post/</loc>
@@ -8,21 +38,7 @@
   </url>
   
   <url>
-    <loc>https://necrozizi.github.io/</loc>
-    <lastmod>2020-02-15T20:31:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://necrozizi.github.io/posts/</loc>
-    <lastmod>2020-02-15T20:31:49+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://necrozizi.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://necrozizi.github.io/tags/</loc>
   </url>
   
 </urlset>

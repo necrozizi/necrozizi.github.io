@@ -1,1 +1,0 @@
-# necrozizi.github.io

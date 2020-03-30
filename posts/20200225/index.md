@@ -1,7 +1,7 @@
 # Chinese firms use obscure legal tactics to stem virus losses
 
-<!-- test local mp3
-{{<music url="/economist/20200328/001 Introduction.mp3" >}} -->
+<!-- test local mp3 -->
+<!-- {{<music url="/economist/20200328/001 Introduction.mp3" >}} -->
 
 > Chinese firms use **obscure** legal **tactics** to **stem** virus losses
 

@@ -77,6 +77,7 @@
     - the manufacturing sector 制造业
     - service sector 服务员
 - invocation
+  - an act of legal or moral implementation (法规、条文等)援引，（法权的）行使
   - （向神或权威人士的）求助，祈祷
 
 > All this raises several questions. First, since this **clause** typically refers to "acts of God" like earthquakes and **hurricanes**, does it really apply to an epidemic probably caused by humans eating **exotic** animals and to the **heavy-handed** government response to it? Second, even if **deemed** relevant, will FM really work in practice? And finally, is a **lengthy** legal **tangle** inevitable?

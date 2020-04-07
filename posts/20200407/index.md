@@ -9,6 +9,8 @@
   - 部分的，不完全的
 - compatriot
   - 同胞，同国人
+  - patriot 
+    - 爱国者
 - all but
   - 除……外全部
   - almost 几乎

@@ -7,9 +7,7 @@
 >
 > America charged **Venezuela**'s **dictator**, Nicolás Maduro, and 14 other members of his **regime** with **drug-trafficking**, **money-laundering** and "narco-terrorism". The State Department offered a reward of $15m for information leading to Mr Maduro's arrest. The **indictments** **allege** that he co-founded the "**cartel** of the suns", which sought to flood America with cocaine. The State Department later said America would lift **sanctions** on Venezuela if it agreed to its framework for **restoring** democracy.
 
-> The ELN, a **guerrilla** group in Colombia, declared a one-month **ceasefire** starting on April 1st. It called the decision a "**humanitarian** gesture" in response to the covid-19 pandemic. The ELN killed more than 20 **cadets** at a police academy in Bogotá in January 2019.
-
-- nacro
+- narco
   - a drug smuggler 毒贩
     - smuggler 走私者
 - Venezuela
@@ -35,6 +33,9 @@
   - (usually pl.) an official order that limits trade, contact, etc. with a particular country, in order to make it do sth, such as obeying international law 制裁
 - restore
   - to bring a law, tradition, way of working, etc. back into use 重新采用
+
+> The ELN, a **guerrilla** group in Colombia, declared a one-month **ceasefire** starting on April 1st. It called the decision a "**humanitarian** gesture" in response to the covid-19 pandemic. The ELN killed more than 20 **cadets** at a police academy in Bogotá in January 2019.
+
 - guerrilla
   - 游击队员
   - [only before noun]
@@ -52,12 +53,6 @@ organized in an informal way and without official permission or approval 游击�
 > 
 > Fighting in Yemen continued despite calls for a **truce** to fight covid-19 instead. Saudi Arabia, which supports the Yemeni government, said it **intercepted** **missiles** launched by Houthi **rebels** towards Saudi territory. The Saudi-led **coalition** then **bombed** targets in Sana'a, the Yemeni capital. Yemen has not yet recorded any cases of covid-19.
 
-> Israel's prime minister, Binyamin Netanyahu, self-isolated after an **aide** tested positive for covid-19. Mr Netanyahu himself tested negative (though the health minister **came down with** the disease). He is in talks with Benny Gantz, the leader of the opposition, over forming a unity government.
-
-> **Ethiopia** postponed **parliamentary** elections scheduled for the end of August because of covid-19. The **poll** will be the first test of the popularity of Abiy Ahmed, a **reformist** prime minister, who **assumed** the role in 2018 after the resignation of his **predecessor**.
-
-> Opposition parties in **Guinea** rejected the result of a constitutional **referendum** that could allow President Alpha Condé to run for a third **term** of five years, saying it was **marred** by violence. Electoral officials said 91% of votes **cast** were in favour of the new **constitution**.
-
 - truce
   - 休战，停战协定；停战期
     - call/break a truce 宣布休战；破坏停战协定
@@ -71,10 +66,16 @@ organized in an informal way and without official permission or approval 游击�
   - （两党或多党）联合政府；（多个政治团体的）联盟
 - bomb
   - 轰炸
+
+> Israel's prime minister, Binyamin Netanyahu, self-isolated after an **aide** tested positive for covid-19. Mr Netanyahu himself tested negative (though the health minister **came down with** the disease). He is in talks with Benny Gantz, the leader of the opposition, over forming a unity government.
+
 - aide
   - （尤指从政者的）助手
 - come down with
   - 患，染上（小病）
+
+> **Ethiopia** postponed **parliamentary** elections scheduled for the end of August because of covid-19. The **poll** will be the first test of the popularity of Abiy Ahmed, a **reformist** prime minister, who **assumed** the role in 2018 after the resignation of his **predecessor**.
+
 - Ethiopia
   - 埃塞俄比亚🇪🇹
 - parliamentary
@@ -91,6 +92,9 @@ organized in an informal way and without official permission or approval 游击�
   - (formal) to take or begin to have power or responsibility 承担（责任），就（职），取得（权力）
 - predecessor
   - a person who did a job before sb else 前任
+
+> Opposition parties in **Guinea** rejected the result of a constitutional **referendum** that could allow President Alpha Condé to run for a third **term** of five years, saying it was **marred** by violence. Electoral officials said 91% of votes **cast** were in favour of the new **constitution**.
+
 - Guinea
   - 几内亚🇬🇳
 - referendum

@@ -4,6 +4,7 @@
 {{<music url="/economist/20200404/002 The world this week - Politics this week/6.mp3">}}
 
 > Grasping an opportunity
+> 
 > **Hungary**, which has been **dismantling** **checks and balances** on **the executive** for a decade, **passed** a covid-19 emergency law that gives Viktor Orban the power to **rule by decree** as prime minister. The opposition says the country has become a **dictatorship**. But the EU did not criticise Hungary by name, and the European People's Party, the EU-level group that includes Mr Orban's Fidesz party, made no move to **expel** it.
 
 - Hungary
@@ -44,12 +45,14 @@
 {{<music url="/economist/20200404/002 The world this week - Politics this week/7.mp3">}}
 
 > Coronavirus briefs
+> 
 > Boris Johnson **contracted** covid-19, the first political leader of a country to do so. The British prime minister is self-isolating at **Number 10**.
 > 
 > Austria made it **compulsory** to wear face masks in supermarkets. The **Czech** Republic and **Slovakia** have put similar measures in place.
 
 - contract
   - (formal or medical) to get an illness 感染（疾病），得（病）
+  - [noun] 合同，契约
 - Number 10
   - 10 Downing Street 唐宁街10号（传统上是第一财政大臣的官邸，但自从1905年此职由英国首相兼领后，就成为今日普遍认为的英国首相官邸。）
 - compulsory

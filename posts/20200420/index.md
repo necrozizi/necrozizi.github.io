@@ -29,8 +29,11 @@
 > Mr Trump said he would **suspend** American funding to the World Health Organisation, accusing it of **pushing** "China's **misinformation**" on the coronavirus.
 
 - suspend
+  - 暂停，中止；延缓，推迟
 - push
+  - to try hard to persuade people to accept or agree with a new idea, buy a new product, etc. 力劝……接受，推销
 - misinformation
+  - (常指故意提供的) 虚假消息
 
 > Bernie Sanders **bowed out** as the sole remaining challenger to Joe Biden and **endorsed** his **hitherto** **rival** for president. Mr Sanders said he was endorsing Mr Biden now so they can **unite** the **Democratic** Party in trying to defeat Mr Trump in November's election.
 

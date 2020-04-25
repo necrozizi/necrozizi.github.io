@@ -42,7 +42,8 @@
 - endorse
   - （公开）赞同，支持
 - hitherto
-  - [adjective] until this time 迄今的；[adverb] 迄今
+  - [adjective] until this time 迄今的；
+  - [adverb] 迄今
 - rival
   - 竞争对手
 - unite in (doing) sth
@@ -84,7 +85,7 @@
   - 暂缓，推迟，延期
 
 
-{{<music url="/economist/20200418/002 The world this week - Politics this week/2.mp3">}}
+{{<music url="/economist/20200418/002 The world this week - Politics this week/3.mp3">}}
 
 > Bangladesh **hanged** Abdul Majed, one of a group of former army officers who killed the country's founding father, Mujibur Rahman, during a military **coup** in 1975. Majed had been **convicted** of murder **in absentia** in 1998, and had been in **hiding** in India until last month. The current prime minister, Sheikh Hasina Wajed, is Mujib's daughter.
 

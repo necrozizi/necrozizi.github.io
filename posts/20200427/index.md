@@ -29,6 +29,8 @@
     - [usually before noun] 革命的
   - corps
     - （由两个或以上师组成的）军，兵团
+  - manoeuvre
+    - manoeuvres [pl.] 军事演习
 
 > Reports emerged of a **massacre** by jihadist rebels in northern Mozambique. Dozens of villagers were shot or **beheaded** after refusing to join the group. The **insurgents** have reportedly also killed 20-30 members of the security forces.
 

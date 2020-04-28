@@ -99,7 +99,7 @@
 - corpse
   - 尸体
 
-> Chile said it would issue immuity cards to people who have recovered.
+> Chile said it would issue immunity cards to people who have recovered.
 > 
 > Nearly 1,100 sailors aboard the Charles de Gaulle, a French **aircraft-carrier**, tested positive.
 > 

@@ -1,7 +1,7 @@
 # Politics this week (2020.05.02) Part.02
 
 
-{{<music url="/economist/">}}
+{{<music url="/economist/20200502/002 The world this week - Politics this week/3.mp3">}}
 
 > Dozens of people were killed when a fuel **lorry** **rigged** with explosives was **detonated** in the **Syrian** city of Afrin, which is controlled by Turkish forces and their local allies. Turkey's defence minister blamed a **Kurdish** **militia**, the YPG, which was pushed out of the city two years ago.
 
@@ -52,7 +52,7 @@
   - 斩首（尤指刑罚）
 
 
-
+{{<music url="/economist/20200502/002 The world this week - Politics this week/4.mp3">}}
 
 > The IMF agreed to provide $3.4bn in emergency funding to Nigeria, its biggest **disbursement** related to covid-19 so far. Nigeria faces a shortage of foreign currency after a collapse in the oil price.
 

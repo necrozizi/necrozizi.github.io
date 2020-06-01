@@ -8,7 +8,8 @@
 - erupt
   - 突然发生，爆发
 - rubber-stamp
-  - (often disapproving) （未经慎重考虑而）正式通过
+  - [noun] (disapproving) 履行审批手续而没有实权的人（或机构）
+  - [verb] (often disapproving) （未经慎重考虑而）正式通过
 - proposal
   - 提议，动议
 - fact on the ground

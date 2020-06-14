@@ -3,7 +3,7 @@
 
 {{<music url="/economist/20200606/003 The world this week - Business this week/1.mp3">}}
 
-> The Centre for Democracy and Technology, an internet-privacy **watchdog**, field the first **lawsuit** against Donald Trump's executive order seeking to **strip** social-media firms of **liability** protections for content posted on their platforms. The courts will probably rule eventually that the president does not have the authority to **proclaim** such a law, though federal agencies may try to **implement** it in the meantime. Mr Trump issued the order in a spat with Twitter over its policing of his tweets. It labelled one of his posts as "**glorifying** violence" the day after he pronounced his **edict**.
+> The Centre for Democracy and Technology, an internet-privacy **watchdog**, field the first **lawsuit** against Donald Trump's executive order seeking to **strip** social-media firms of **liability** protections for content posted on their platforms. The courts will probably rule eventually that the president does not have the authority to **proclaim** such a law, though federal agencies may try to **implement** it in the meantime. Mr Trump issued the order in a **spat** with Twitter over its **policing** of his tweets. It labelled one of his posts as "**glorifying** violence" the day after he pronounced his **edict**.
 
 - watchdog
   - （监督公司活动及监护人们权利的）监察人，监察团体
@@ -17,6 +17,10 @@
   - to publicly and officially tell people about sth important 宣布，宣告，声明
 - implement
   - 使生效，执行，实施
+- spat
+  - (informal) a short argument or disagreement about sth unimportant 小争吵，口角
+- policing
+  - （对行业、活动等的）监督，管理，检查
 - glorify
   - (often disapproving) to make sth seem better or more important than it really is 吹捧，吹嘘，美化
 - edict

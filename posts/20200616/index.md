@@ -15,7 +15,7 @@
 - cover-up
   - 掩盖，掩饰
 
-> North Korea shut down the hotlines it shares with South Korea's leadership. The South's defence department said the North was not answering calls on military lines for the first time since they were established in 2018. The North's blood-**drenched** regime was upset because **defectors** in the South were flying **insolent** **leaflets** over the border by ballons.
+> North Korea shut down the hotlines it shares with South Korea's leadership. The South's defence department said the North was not answering calls on military lines for the first time since they were established in 2018. The North's blood-**drenched** regime was upset because **defectors** in the South were flying **insolent** **leaflets** over the border by balloons.
 
 - drench
   - [often passive] 使湿透
